@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of severall acts, passages and proceedings, done, undertaken, suffered and performed, by Captaine Robert Lawson, now one of the sheriffes of the city and county of London-Derry upon and since the first beginning of the great and generall rebellion in Ireland, in severall parts and places within the province of Ulster. With a true copy of his commission at Lysnegarvy, a copy of a letter to Sir Robert Stewart from the commissioners, and copies of his warrants to his two lieutenants and quarter-master to command in his absence, with a true copy of another commission for raysing of men in London-Derry, with a true certificate under the hands of the colonels, commissioners, and captaines in generall, touching his carriage in and about London-Derry, with his commission of agencie from the city of London-Derry during his abode in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63665</idno>
+            <idno type="STC">Wing T2914B</idno>
+            <idno type="STC">ESTC R222394</idno>
+            <idno type="EEBO-CITATION">99833572</idno>
+            <idno type="PROQUEST">99833572</idno>
+            <idno type="VID">38049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2067:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of severall acts, passages and proceedings, done, undertaken, suffered and performed, by Captaine Robert Lawson, now one of the sheriffes of the city and county of London-Derry upon and since the first beginning of the great and generall rebellion in Ireland, in severall parts and places within the province of Ulster. With a true copy of his commission at Lysnegarvy, a copy of a letter to Sir Robert Stewart from the commissioners, and copies of his warrants to his two lieutenants and quarter-master to command in his absence, with a true copy of another commission for raysing of men in London-Derry, with a true certificate under the hands of the colonels, commissioners, and captaines in generall, touching his carriage in and about London-Derry, with his commission of agencie from the city of London-Derry during his abode in London.</title>
+               </titleStmt>
+               <extent>[2], 2, 5-15 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawson, Robert, --  sheriff of Londonderry --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38049:1"/>
+            <pb facs="tcp:38049:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION OF Severall Acts, Paſſages and Proceedings, done, undertaken, ſuffered and performed, by Cap<g ref="char:EOLhyphen"/>taine <hi>Robert Lawſon,</hi> now one of the Sheriffes of the City and County of <hi>London-Derry,</hi> upon and ſince the firſt be<g ref="char:EOLhyphen"/>ginning of the great and generall Rebellion in <hi>Ireland,</hi> in ſe<g ref="char:EOLhyphen"/>verall parts and places within the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter.</hi>
+            </p>
+            <p>With a true Copy of his Commiſſion at <hi>Lyſnegarvy,</hi> a Copy of a Letter to Sir <hi>Robert Stewart</hi> from the Commiſſi<g ref="char:EOLhyphen"/>oners, and Copies of his warrants to his two Liev<g ref="char:EOLhyphen"/>tenants and Quarter-maſter to Command in his ab<g ref="char:EOLhyphen"/>ſence, with a true Copy of another Commiſſion for rayſing of men in <hi>London-Derry,</hi> with a true Certificate under the hands of the Colonels, Commiſſioners, and Captaines in generall, touching his carriage in and about <hi>London-Derry,</hi> with his Commiſſion of agen<g ref="char:EOLhyphen"/>cie from the City of <hi>London-Derry</hi> during his abode in <hi>London.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="relation">
+            <pb facs="tcp:38049:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38049:2"/>
+            <head>A true relation of ſeverall Acts, paſſages and proceedings; done, undertaken, ſuffered and performed, by Captaine <hi>Robert Lawſon,</hi> now one of the Sheriffes of the City and County of <hi>London-Derry,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the ſixteenth of <hi>October</hi> 1641. before any notice of an Inſurrection of this great and generall Rebellion, Captaine <hi>Lawſon</hi> having occaſion to take a journey from <hi>London-der<g ref="char:EOLhyphen"/>ry</hi> unto <hi>Dublin,</hi> and to to travell by way of <hi>Belfaſt,</hi> to the iron workes within two miles thereof, wherein he had ſome ſtocke and intereſt, tooke his journey from thence with intent to goe for <hi>Dublin</hi> upon Friday the 21. of <hi>October</hi> following, and came and reſted that night in ſafety at <hi>Drummore,</hi> where ariſing early the next morning, being Saturday, tooke his journey towards <hi>Newry,</hi> when upon the way he happened to meete with a ſonne of Sir <hi>Edward Tre<g ref="char:EOLhyphen"/>vers</hi> comming from thence, who related unto him upon enquiry, that the Countrey there was riſing in Rebellion, which he not giving much credit to, went forwards untill he came within a mile of <hi>Newry</hi> to the Bridge there, obſerving and ſeeing upon the way upon ſeverall hils, ten and twenty men in a company, and the Bridge guarded with about 80. men, who offered to aſſault this Captaine, whereupon he obſerving great danger, being accompanied onely with his man, returned backe to <hi>Loughbrickelane,</hi> where he happened to meete with Sir <hi>Thomas Lucas</hi> and Captaine <hi>Armeſtrong,</hi> where after long conference betweene them, a meſſenger approaches, and comes, who did relate the truth of a gene<g ref="char:EOLhyphen"/>rall Rebellion in all thoſe parts; upon further conference it was agre<g ref="char:EOLhyphen"/>ed and concluded that the ſaid Captaine <hi>Lawſon</hi> with the reſt ſhould repaire for their reliefe to a houſe of Sir <hi>Edward Trevers,</hi> whither be<g ref="char:EOLhyphen"/>ing come, they found there his ſonne <hi>Marke Trevers,</hi> and his wife, and a maid, and an <hi>Iriſh</hi> Agent of his, who was well mounted, and had ſerved his Father ſixteene yeeres, and five <hi>Iriſh</hi> footmen ready to depart thence into another houſe of his Fathers about twelve miles diſtant,
+<pb n="2" facs="tcp:38049:3"/>his Father being gone in his Coach about an houre before a by-way from <hi>Newry,</hi> but yet not above a mile or two from <hi>Newry.</hi> So deman<g ref="char:EOLhyphen"/>ding what to doe for beſt ſafety, it was agreed amongſt them, that they ſhould goe into Sir <hi>Edward Trevers</hi> houſe, it being a place of ſome de<g ref="char:EOLhyphen"/>fence; and comming within a mile thereof, they ſent their footmen before to the houſe, and ſtayed themſelves upon the ſide of a hill, to have intelligence if the houſe were ſafe, whereupon one of the boyes in company with them, the reſt being fled to the Enemy, returned and acquainted them that Sir <hi>Conn. Mackgennis</hi> had newly taken his Fathers houſe and himſelfe priſoner ſo conſidering what to doe, it drawing to<g ref="char:EOLhyphen"/>wards night, it was reſolved they ſhould ride all night and goe <hi>Downe<g ref="char:EOLhyphen"/>patricke</hi> way, when they preſently eſpied a horſeman comming from <hi>Newry,</hi> whereupon Captaine <hi>Lawſon</hi> and the <hi>Iriſh</hi> Agent ſtayed to en<g ref="char:EOLhyphen"/>quire for newes, and the reſt of the company going forwards, but ſee<g ref="char:EOLhyphen"/>ing the Enemies horſe halt on the way, and the reſt of the company be<g ref="char:EOLhyphen"/>ing about a quarter of a mile before: Captaine <hi>Lawſon</hi> deſired the <hi>Iriſh</hi> Agent to come along with him forwards in their company, but being well mounted he leaves Captaine <hi>Lawſon,</hi> and ridde to the Enemy to <hi>Newry,</hi> and preſently roſe 80. men, and followed Captaine <hi>Lawſon</hi> and his company to <hi>Dondromme,</hi> where they ſtayed for a ſhort time, in and about halfe an houre after they left it, came the Enemy and tooke it in, where in pleaſed God to give them a great deliverance, that night being Saturday; and the next morning being Sunday about breake of the day they came to <hi>Downe-patricke,</hi> where they ſtayed to heare a Ser<g ref="char:EOLhyphen"/>mon, all the Towne being in a great affright.</p>
+            <p>After which they went forwards and came that night to <hi>Killeleagh</hi> to the Lord <hi>Hamiltons,</hi> where Sir <hi>Thomas Lucas</hi> and the reſt ſtayed, and Captaine <hi>Lawſon</hi> thereupon that night procured a man with him from thence, and came in the night by <hi>Comber,</hi> through the Lord of <hi>Ardes</hi> Countrey about by litttle <hi>Belfaſt,</hi> and came to great <hi>Belfaſt,</hi> and up to the Iron workes neare thereunto about three of the clocke in the mor<g ref="char:EOLhyphen"/>ning, where his wife was then reſident, and having ſent ſeverall meſ<g ref="char:EOLhyphen"/>ſengers before to enquire after him, who were taken and robbed. But Captaine <hi>Lawſon</hi> not having reſted there above two houres, aroſe, cal<g ref="char:EOLhyphen"/>ling two horſemen with him. And in the morning being Munday, went downe backe againe to great <hi>Belfast,</hi> where they found moſt part of the inhabitants fled, and flying, and carrying away their goods to <hi>Car<g ref="char:EOLhyphen"/>rickefergus,</hi> and the old Lord <hi>Chicheſter</hi> ſhipped aboard in a Ship. So Captaine <hi>Lawſon</hi> went throughout the Towne, and blamed them much for offering to leave the Towne, and intreated for ſome Armes,
+<pb n="5" facs="tcp:38049:3"/>either by buying or lending, but could not prevaile. At laſt he found in Maſter <hi>Leſquires</hi> houſe ſeven Muſquets and eight Halberts ready in the ſtreets to be ſhipped for <hi>Carrickefergus,</hi> which Armes he tooke and bought a Drumme, and beating the ſame through the Towne, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiſed about twenty men, who came with him againe up to the Iron works, having Mr. <hi>Forbus,</hi> &amp; ſome number with him joyned with Cap. <hi>Lawſon,</hi> where alſo he gathered in-all about 160. horſe &amp; foot, who about two of the clocke upon the ſame Munday in the afternoone, being the 25. of <hi>October,</hi> the ſecond day after the rebellion, marched unto <hi>Liſnegarvy,</hi> and there entred the Towne about foure of the clocke the ſame day, all the people with the Troope there engarriſond, having before left the Towne to the Enemies mercy the Sunday before, and they quartered all that night, in the houſe the Biſhop of <hi>Downe</hi> lived in, and put many Candles in the Market-houſe and Centries out in every quarter of the Towne, making ſhew of ſixe or ſeven lighted matches for every piece to aſtoniſh the Enemy, who came to the Centries that night, intending to have burnt the Town, but our ſhew and carri<g ref="char:EOLhyphen"/>age was more then our force, the Enemy being ſtrong and many in num<g ref="char:EOLhyphen"/>ber, by which meanes they were affrighted and beaten off that night. And The next morning being Tueſday, the Enemy appeared by the Townes end, and drived before them about 400. Cowes, whereupon Captaine <hi>Lawſon</hi> with 45. horſe iſſues forth, leaving the reſt to guard the Towne, and it pleaſed God by their good labour and induſtry they tooke the prey of Cowes, and ſome priſoners, and killing others of the Enemy, and got ſeventeene of their mantles. And after ſending the prey into the Towne, they adventured three miles further, and brought in before night as many more Cowes, and kept them within the Bawne wall of the Biſhops houſe, and all the next night ſecured the Towne alſo. Sir <hi>Conn. Mackgennis</hi> threatning and ſending word he would burne the Towne that night, but it pleaſe God they were prevented and beaten off, and the Towne kept in ſafety, and often iſ<g ref="char:EOLhyphen"/>ſued forth amongſt the Enemy to prevent their gathering to a great head, untill at length upon the next day being Wedneſday, the Troope and towneſmen came in againe to the Towne, hearing and underſtan<g ref="char:EOLhyphen"/>ding what ſervice Captaine <hi>Lawſon</hi> and his ſmall company of men had done there in ſecuring the ſame, the preſervation whereof under God was a meanes of the ſafety not onely of <hi>Liſnegarvy</hi> and <hi>Belfaſt,</hi> but of moſt of thoſe parts thereabouts. Being the firſt that op<g ref="char:EOLhyphen"/>poſed the Enemy in thoſe parts. And at night came thither the Lord of <hi>Ards</hi> forces and the Lord <hi>Hamilton,</hi> Sir <hi>Arthur Firingham,</hi> Captaine
+<pb n="6" facs="tcp:38049:4"/>
+               <hi>Chicheſter,</hi> Sir <hi>Thomas Lucas,</hi> and Sir <hi>James Montgomery,</hi> and Mr. <hi>Arthur Hill,</hi> with their forces, who Captaine <hi>Lawſon</hi> and his men great thankes for their good care and ſervice in the Towne, and offered to give him a Commiſſion to enable him to doe more ſervice, which he was very unwilling to accept of, in regard of his Calling, being a Merchant. But being moved by Sir <hi>Thomas Lucas,</hi> accepted thereof, and gave him power thereby to raiſe as many horſe and foote as he pleaſed in the Counties of <hi>Downe</hi> and <hi>Antrym</hi> (as may appeare by his ſaid Commiſſion) praying him to accept thereof, the ſaid Sir <hi>Thomas Lucas</hi> promiſing he would acquaint his Majeſty with his good ſervice, which the rather encouraged him to accept thereof.</p>
+            <p>So there being come up to <hi>Liſnegarvy</hi> about 1500. horſe and foote, himſelfe, his men, and company had their order by their Commiſſion, and quarters about the Iron workes in the Barony of <hi>Belfaſt,</hi> and then left to the Army about 400. Cowes, and onely brought with him from thence about ſixty Cowes for his owne company.</p>
+            <p>About foure daies their Armies ſtayed in <hi>Liſnegarvie,</hi> and in that time moſt of their men went home with ſome Cowes to <hi>Claneboyes,</hi> and the <hi>Ards,</hi> and Captaine <hi>Chicheſter,</hi> Sir <hi>Arthur Tiringham,</hi> with ſome others, went to <hi>Drommore,</hi> where the Enemy approaching upon them, they retired home to their Quarters, by which meanes <hi>Liſnegarvie</hi> was left in a worſer caſe then at firſt, ſo was Captaine <hi>Lawſon</hi> was forced from time to time upon all Alarms to come up from his Quarters, be<g ref="char:EOLhyphen"/>ing three miles off to relieve the Towne. And for the ſpace of a moneth by reaſon of the often approaches of the Enemies got little reſt in day or night, but ſtill in skirmiſh and aſſiſting the Town, and was at the putting 250. of the Enemy out of Mr. <hi>Rawdens</hi> houſe neare there<g ref="char:EOLhyphen"/>unto, and recovered from them ſome Lead, with much other goods left therein, and were preſerved for the owners, and killed ſeverall of the Enemy at that time and afterwards above ten or more every day, and marched up to <hi>Ballanderry,</hi> and brought many Cowes from thence, put out Mr. <hi>Rory</hi> an Arch-rebell out of his houſe, loſing upon many skirmiſhes ſome few of his men, which the Countrey thereabout well knowes, in which ſervice Captaine <hi>Windſor</hi> was, and behaved himſelfe gallantly, and ſeverall other times as occaſion offered.</p>
+            <p>At laſt having gotten notice of a Ship of his which he had fraugh<g ref="char:EOLhyphen"/>ted with Butter from <hi>Londonderry</hi> to goe for <hi>France,</hi> was ſtayed there and not ſuffered to paſſe. Captaine <hi>Lawſon</hi> acquainted Captaine <hi>Chi<g ref="char:EOLhyphen"/>cheſter,</hi> Sir <hi>Arthur Tiringham,</hi> and the reſt of the Commiſſioners, there<g ref="char:EOLhyphen"/>with,
+<pb n="7" facs="tcp:38049:4"/>deſiring them to have leave to come to <hi>Derry</hi> to take ſome courſe to releaſe her, which they willingly granted, and gave him a Warrant under their hands (as doth appeare) unto his two Lieutenants and Quarter-maſter to command his company of horſe and foote in his ab<g ref="char:EOLhyphen"/>ſence, being limited for ten dayes and no longer, and withal write their letters in his behalfe to ſome of the Commiſſioners at <hi>Londonderry</hi> to take him into their care, and ſhew him all favour in releaſing of his Ship and goods, and ſetting forth the good ſervices done by him in thoſe parts, as likewiſe doth appeare. Howbeit the Commiſſioners at <hi>Derry</hi> at his comming thither taking into conſideration the great number of diſtreſſed robbed people there, and no ſhipping there to tranſport them, he was refuſed, his goods unſhipped, and much ſpoyled, and much loſt, and imbezelled by reaſon of the diſtraction of the times, and loſt of Ad<g ref="char:EOLhyphen"/>vance-money to the Maſter of the Ship 30. li. Sterling, beſides the benefit of his market beyond Seas, and for the defraying of his credit abroad and at home, which was the onely ſtaffe of his livelihood, and might have beene the meanes to have returned a Ship or more of Corne in<g ref="char:EOLhyphen"/>tended for theſe parts, ſo as he cannot be leſſe dampnified then 600. li. the ſame ſhip being afterwards imployed to carry away into <hi>Scotland</hi> about 500. poore ſoules, which would have periſhed if that occaſion had not beene offered, no other ſhipping being there reſident for the ſpace of ſixe moneths before. So as all his goods ſo ſhipped, being Butter, are wholly imployed and diſpoſed for the ſupply of the ſeve<g ref="char:EOLhyphen"/>rall Regiments, his owne Souldiers and others of the Britiſh there.</p>
+            <p>By reaſon whereof, and for that the Countrey all about in this time were then broken out into open rebellion, he could not in ſafety returne backe to his Quarters by Land or by Sea, but was forced to ſtay in <hi>Derry;</hi> howbeit all his company at the Iron workes ſtill kept on foote for foure moneths together, doing good ſervice all that time, they being at all battels, and skirmiſhes there with the Enemy, and about ten of his company loſt therein, whereof one was Captaine <hi>Boyd</hi> his Souldier at firſt, and after made a Captaine, whoſe wife and poore children wholly depend upon Captaine <hi>Lawſons</hi> reliefe; ſo as he can<g ref="char:EOLhyphen"/>not have expended leſſe then 1200. li. for the raiſing, keeping, and main<g ref="char:EOLhyphen"/>taining his ſeverall companies there, with Victuals, Munition, and Armes, beſides all his ſtocke at the Iron workes, with the works them<g ref="char:EOLhyphen"/>ſelves wholly loſt and brought to decay, the Sowe-iron unwrought to the quantity of 2000. li. value, beſide much Iron oare, and 1000. tunnes of ſquare timber moſt burnt by the Souldiers, 1000. loads of Charcoles
+<pb n="8" facs="tcp:38049:5"/>burnt by the Enemy at Forge, Fornace, and in the Woods, with three Gorne Mils, and many houſes burned, and land layed waſte, and all the movables taken away by the Enemy and others, the land and Mils being worth 150. li. <hi>per Annum.</hi> The Mils, Lands, and Woods, wholly belonging to <hi>Robert Barre</hi> Eſquire his Father in Law, onely 2000. li. Sterling which Captaine <hi>Henry Osburne</hi> his brother in Law &amp; he had as a ſtocke on foot therein, which upon the matter is the loſſe of the greateſt part of their three eſtates, the whole loſſe is above 12000. li.</p>
+            <p>In the interim of which time Captaine <hi>Lawſon</hi> the more to expreſſe his willingneſſe to further his Majeſties ſervice, having a Ship come into <hi>Carrickefergus,</hi> at the firſt of the rebellion, which was laden with 85. tunnes of Salmon for the accompt of him, Captaine <hi>Henry Finch</hi> and Captain <hi>Osburn,</hi> with other goods for <hi>Derry,</hi> and bound for <hi>France,</hi> cauſed the ſame to tranſport from thence to <hi>Dublin,</hi> Sir <hi>Thomas Lucas</hi> &amp; Cap. <hi>Charles Boulton,</hi> where being landed, &amp; the ſhip intending forwards to <hi>France,</hi> was preſently after caſt away worth 2000. l. Sterling, occaſion<g ref="char:EOLhyphen"/>ed by the ſame. And by that conveyance Cap. <hi>Boulton</hi> getting to <hi>Dublin,</hi> ſhortly afterwards brought backe from thence to <hi>Londonderry,</hi> thirty Barrels of Powder, with other Armes and Munition, being the firſt re<g ref="char:EOLhyphen"/>liefe and ſupply which came thither for the ſupplies of the Regiments, and Souldiers there, without which they had beene utterly loſt and periſhed, as being deſtitute before of any Power or Armes.</p>
+            <p>Captaine <hi>Lawſon</hi> not being able by reaſon of the generall rebellion to returne backe from <hi>Derry</hi> unto his charge and companies at <hi>Liſne<g ref="char:EOLhyphen"/>garvie</hi> and the parts thereabouts, the Commiſſioners at <hi>Derry</hi> deſired him to make his ſtay there, it being the place of his moſt aboade and dwelling, and were pleaſed to give him another Commiſſion to raiſe a company there, which he out of a deſire and zeale to the publike ſer<g ref="char:EOLhyphen"/>vice did at his owne coſt, conſiſting of 150. foote and eleven horſe, and were there lately ſo muſtered by the Commiſſary, which company of horſe and foote he hath kept, maintained, and continued at his owne charge by weekly pay of two ſhil. ſix pence weekly, from the firſt of <hi>De<g ref="char:EOLhyphen"/>cember</hi> 1641. &amp; 100. beſide officers ſtill continued on foot by his weekely pay; and hath iſſued and delivered out about 4000. Deale boards to make ſeverall houſes with timber, Planckes and Nailes to receive the Souldiers, their wives and children in the dead of Winter, moſt of them having beene men of good ability and houſholders, neither hath he beene wanting on his part for and towards the repairing of the de<g ref="char:EOLhyphen"/>cayed wals, gates, and ramparts of the City, and doing other neceſſary
+<pb n="9" facs="tcp:38049:5"/>workes there, and hath begunne a trench without the wals of the City of good conſequence, intended to be perfected; for all which he can<g ref="char:EOLhyphen"/>not have expended leſſe, to our underſtanding, then 5000. li. Sterling, beſid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s his loſſe of ſeverall houſes, goods, and commodities at <hi>Strabane,</hi> all burned and conſumed, to the value of 1500. li. Sterling, and the want of his meanes and imployment (as being a Merchant-adventurer to the Seas) and having great debts abroad in the Rebels hands, and others, who are poore diſtreſſed people and not able to make any ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+            <p>All which premiſſes conſidered, as by certificate in them the ſaid doth appeare, are of opinion that Captaine <hi>Lawſons</hi> paines, zeale, va<g ref="char:EOLhyphen"/>lour, care, and ſervice hath juſtly demerited a good reward, and a con<g ref="char:EOLhyphen"/>ſideration to be had of his great loſſes ſuſtained, being the firſt that oppoſed the Enemy in the Kingdome, at and about <hi>Lyſnegarvy,</hi> by which means under God, we enjoy moſt of the County about, in regard it was ſo ſuddenly oppoſed, being upon the Munday following, the 25. of <hi>October</hi> 1641.</p>
+         </div>
+         <div type="commission">
+            <head>A true Copy of a Commiſsion at <hi>Liſnegarvy,</hi> 28. October. 1641.</head>
+            <head type="sub">By the honourable Captaine <hi>Arthur Chicheſter,</hi> and Sir <hi>Arthur Ter<g ref="char:EOLhyphen"/>ringham</hi> Knight, commanding in the Army againſt the Rebels, &amp;c.</head>
+            <p>VVHereas we finde that Captaine <hi>Robert Lawſon</hi> is willing to im<g ref="char:EOLhyphen"/>ploy his owne ſervice and paines together with ſuch forces as he hath now a foote or can raiſe, in defending and preſerving the ſe<g ref="char:EOLhyphen"/>verall Counties of <hi>Downe</hi> and <hi>Antrim,</hi> and eſpecially in the Barony of <hi>Belfaſt:</hi> Theſe are therefore to pray and authorize him ſo to doe for the furtherance of his Majeſties ſervice in ſuppreſſing the Rebels now up in Arm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and we doe hereby ſtraightly charge and require all his Maje<g ref="char:EOLhyphen"/>ſties Officers and loyall Subjects to be aiding and aſſiſting to him in that ſervice, and to be ready from time to time to relieve him and his com<g ref="char:EOLhyphen"/>panies with proviſion and other neceſſaries during his ſaid imploy<g ref="char:EOLhyphen"/>ment, and that he faile not to give us daily intelligence of his procee<g ref="char:EOLhyphen"/>dings therein. And for his ſo doing, this ſhall be his Warrant, given
+<pb n="10" facs="tcp:38049:6"/>under our hands from his Majeſties Army in <hi>Liſnegarvy,</hi> this 28. day of <hi>October</hi> 1641.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Arthur Chicheſter.</item>
+                     <item>Arthur Tirringham.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <head>A true Copy of a Licence when I came to <hi>Derry,</hi> and Commiſſion to my two Lieutenants and Quarter<g ref="char:EOLhyphen"/>maſter to command in my abſence.</head>
+            <head type="sub">By the Honourable Captaine <hi>Arthur Chicheſter</hi> and Sir <hi>Arthur Tyr<g ref="char:EOLhyphen"/>ringham</hi> Knight, Governour, &amp;c. and Commiſſioners for his Majeſties preſent ſervice againſt the Rebels.</head>
+            <p>VVHereas we have Licenced Captaine <hi>Robert Lawſon</hi> to be abſent from his charge for the ſpace of ten dayes, theſe are to re<g ref="char:EOLhyphen"/>quire and authoriſe you Lieutenant <hi>Clugſtone</hi> and Lieutenant <hi>Hannay,</hi> and Quarter-maſter <hi>Stewart</hi> to governe and command the ſaid Captaines Troope and company in his abſence, and reduce them all to one body according as they were firſt entred and enliſted under his command, and that you and they receive your further directions from us: and we doe hereby require you to enquire and ſearch out what wea<g ref="char:EOLhyphen"/>ring clothes or other goods the Souldiers have pillaged out of Maſter <hi>Roydens</hi> houſe or elſewhere, and that you faile not to ſeaze upon the ſaid goods, and to take them unto your charge, and eſpecially thoſe taken by one <hi>Pwrdy.</hi> And having received the ſame unto your hands, you are to keepe and diſpoſe them or any other goods that hereafter ſhall be ſo pillaged by any of the ſaid company or ſuch as ſhall follow them according as your Captaine ſhall appoint and direct, whereof you are not to faile as you will anſwer the contrary at your perils.</p>
+            <closer>
+               <dateline>Given under our hands at <hi>Carrickefergus</hi> 
+                  <date>the 16. of <hi>November</hi> 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Arthur Chicheſter.</item>
+                     <item>Arthur Tyrringham.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:38049:6"/>
+            <head>A true Copy of Sir <hi>Arthur Chicheſter</hi> and Sir <hi>Arthur Tyrringhams</hi> Letter to Sir <hi>Robert Stewart.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>IT is the beſt right we can doe Capt. <hi>Robert Lawſon</hi> in part of recom<g ref="char:EOLhyphen"/>pence for the good ſervice he hath done here againſt the Rebels to recommend him and his occaſions in your parts to your care and fa<g ref="char:EOLhyphen"/>vour: he informed us of a Ship of his that is now a loading at <hi>Derry,</hi> and feares in regard of theſe troubles it will not be ſuffered to carry a<g ref="char:EOLhyphen"/>way his goods, by which meanes he is like to under-goe much loſſe and dammage, we ſhall therefore intreat you for our ſakes to counte<g ref="char:EOLhyphen"/>nance his buſineſſe there, and to procure his Ship and goods a free paſ<g ref="char:EOLhyphen"/>ſage, we are confident you will not be backward to favour ſo deſerving a man, which is earneſtly deſired by thoſe that will be moſt ready to ex<g ref="char:EOLhyphen"/>preſſe our ſelves,</p>
+            <closer>
+               <dateline>Carrickefergus, <date>Novemb. 6. 1641.</date>
+               </dateline>
+               <signed>Your very affectionate friends,
+<list>
+                     <item>Arthur Chicheſter.</item>
+                     <item>Arthur Tyrringham.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>We finde him ſo able a man that we have ſtaied him here, and given him a command; he hath ſupplied us being deſtitute of any meanes of ſending intelligence to the State with a Ship, though it was bound for <hi>France.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="license">
+            <head>A true Copy of a Licence to tranſport my wife and goods to <hi>Derry.</hi>
+            </head>
+            <p>KNow all men by theſe preſents, that we have licenced Captaine <hi>Robert Lawſon,</hi> to convey and bring his wife and family with their goods to the Towne of <hi>London-derry,</hi> and doe therefore ſtraightly re<g ref="char:EOLhyphen"/>quire all his Majeſties Officers and loving Subjects, to aſſiſt and aid them in their journey with their ſaid goods, as they will anſwer the contrary at their perils.</p>
+            <closer>
+               <dateline>Given under our hands at <hi>Carrickefergus</hi> 
+                  <date>the ſixth day of <hi>November</hi> 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Arthur Chicheſter.</item>
+                     <item>Arthur Tirringham.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="commission">
+            <pb n="12" facs="tcp:38049:7"/>
+            <head>A true Copy of <hi>London derry</hi> Commiſsion.</head>
+            <p>VVHereas by his Majeſties Commiſſion under the hands of the Right Honourable Sir <hi>William Parſons</hi> and Sir <hi>John Borlaſe</hi> Knights, now Lords Juſtices of this Kingdome of <hi>Ireland,</hi> and others of the Honourable Privy Councell of the ſame Kingdome, to us and others directed, bearing date the eighteenth day of <hi>November</hi> laſt paſt; whereby we or any one of us joyntly or ſeverally are required and au<g ref="char:EOLhyphen"/>thoriſed to levie, arme, and array all ſuch forces both of foote and horſe of the <hi>Britiſh</hi> Nation, within the ſeverall Counties of <hi>Tyrone, London-derry, Donnagall, Cavan, Armagh,</hi> and <hi>Fermanagh,</hi> all, or any of them, and alſo to divide, diſtribute, and diſpoſe the ſaid forces into Troopes or ſeverall Companies, and to appoint Officers and Comman<g ref="char:EOLhyphen"/>ders over them. Now by vertue of the foreſaid Commiſſion, we doe hereby nominate, ordaine, and appoint <hi>Robert Lawſon</hi> Merchant, and one of the Burgeſſes of the City of <hi>London-derry</hi> to be Captaine and Commander of one hundred men of the <hi>Britiſh</hi> Nation, and he to ap<g ref="char:EOLhyphen"/>point ſuch Officers under him for the commanding and due ordering of his ſaid company as he ſhall know and approve to be men of diſcre<g ref="char:EOLhyphen"/>tion, care and truſt to diſcharge the Offices whereunto they ſhall be elected and appointed by him. And we doe hereby authorize the ſaid <hi>Robert Lawſon</hi> to joyne his ſaid company with any other his Majeſties forces for the defence of the foreſaid City of <hi>London-derry,</hi> or in purſu<g ref="char:EOLhyphen"/>ing, ſlaying, and deſtroying any of the Rebels, and for the taking and ſurpriſing any of the Holds or Forts now poſſeſſed by them or any of them if occaſion ſhall ſo require. And we doe hereby require and com<g ref="char:EOLhyphen"/>mand all ſuch perſons as ſhall be entred in the Liſt, and under the command of the ſaid <hi>Robert Lawſon</hi> to render all due obedience to him and his Officers as by them in point of Martiall affaires they or any of them ſhall be commanded and required, as they will anſwer at their pe<g ref="char:EOLhyphen"/>rils.</p>
+            <closer>
+               <dateline>Given under our hands and ſeales at the City of <hi>London-Derry,</hi> 
+                  <date>the fifth day of <hi>December</hi> 1641.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>John <g ref="char:V">Ʋ</g>aughan.</item>
+                     <item>Henry <g ref="char:V">Ʋ</g>aughan.</item>
+                     <item>Dudley Phillips.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>To <hi>Robert Lawſon</hi> Burgeſſe.</trailer>
+         </div>
+         <div type="commission">
+            <pb n="13" facs="tcp:38049:7" rendition="simple:additions"/>
+            <head>A true Copy of a Commiſsion from the City of <hi>London-derry</hi> to <hi>London.</hi>
+            </head>
+            <p>VVE the Major of the City of <hi>London-Derry,</hi> in the Kingdome of <hi>Ireland,</hi> and Sir <hi>John Vaughan</hi> Knight, one of his Majeſties Honourable Privy Councell of the ſaid Kingdome, and others the Al<g ref="char:EOLhyphen"/>dermen and Captaine of the aforeſaid City, hereunto ſubſcribing, ha<g ref="char:EOLhyphen"/>ving important occaſion at this preſent to imploy an Agent of eſpeci<g ref="char:EOLhyphen"/>all truſt into <hi>England</hi> for the publike good, and better ſafety of this City and the Countrey adjoyning, in regard of the eminent danger the ſame are in, in reſpect of the generall Rebellion of the Natives of this Kingdome; Have thought fit to imploy the Bearer hereof <hi>Robert Lawſon,</hi> one of the Sheriffes of the ſaid City, and Captaine of a foote company of Souldiers now ingarriſoned in the ſame City to be our Agent in the foreſaid buſineſſe, who intendeth by the aſſiſtance of Al<g ref="char:EOLhyphen"/>mighty God with all poſſible ſpeede to paſſe into the Kingdome of <hi>England,</hi> there to expedite our affaires, and afterwards to make his re<g ref="char:EOLhyphen"/>turne hither. We therefore doe pray and deſire all his Majeſties Offi<g ref="char:EOLhyphen"/>cers, Miniſters, and loving Subjects of any his Highneſſe Realmes and Dominions, to whom theſe Preſents ſhall come to be ſeene, to take no<g ref="char:EOLhyphen"/>tice hereof, and to permit the ſaid <hi>Robert Lawſon</hi> to paſſe and repaſſe both by Sea and Land without trouble or moleſtation either in body or goods, and to aſſiſt him if need require with Poſt-horſes, or any o<g ref="char:EOLhyphen"/>ther thing need full in his journey, and returne hither as they as eve<g ref="char:EOLhyphen"/>ry of them tender his Majeſties ſervice, and the welfare of this part of his Majeſties Kingdome, in teſtimony whereof we have hereunto ſet our hands, and cauſed the Seale of Maioralty of the foreſaid City of be hereto affixed at the ſaid City, the 23. day of <hi>September, Anno Dom.</hi> 1642. <hi>Annoque Reg. Car.</hi> 18.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>John Vaughan.</item>
+                     <item>Henry Vaughan.</item>
+                     <item>John Kilner.</item>
+                     <item>Robert Thorneton <hi>Major.</hi>
+                     </item>
+                     <item>Simon Pits.</item>
+                     <item>Henry Finch.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="certificate">
+            <pb n="14" facs="tcp:38049:8"/>
+            <head>A true Copy of a Certificate of the Commiſsioners, Colonels, Captaines, and Commanders, of Captaine <hi>Lawſons</hi> carriage in and about <hi>London-derry,</hi> and <hi>Liſnegarvy,</hi> and the Country adjoyning.</head>
+            <p>TO all Chriſtian people unto whom theſe Preſents ſhall come, We Sir <hi>William Stewart</hi> Knight and Baronet, Sir <hi>John Vaughan</hi> Knight, two of his Majeſties moſt Honourable Privy Councell of <hi>Ireland,</hi> Sir <hi>Robert Stewart</hi> Knight, and other his Majeſties Commiſſioners, Cap<g ref="char:EOLhyphen"/>taines and Commanders of the ſeverall Regiments under the command of the ſaid Sir <hi>William Stewart,</hi> Sir <hi>Robert Stewart,</hi> and Sir <hi>Ralph Gore</hi> Knight and Colonell, lately deceaſed, here under ſubſcribing; doe here<g ref="char:EOLhyphen"/>by certifie, That whereas by vertue of ſeverall Commiſſions to ſome of us and others directed from the Right Honourable the Lords, Juſtices, and Councell of <hi>Ireland,</hi> bearing date the 27. of October laſt, a Com<g ref="char:EOLhyphen"/>miſſion iſſued amongſt others, to <hi>Robert Lawſon,</hi> one of the Sheriffes of the City and County of <hi>London-derry,</hi> to raiſe and arme a company and number of men to conſiſt of one hundred and upwards for the ſafe keeping of the ſaid City and County and the Countrey adjoy<g ref="char:EOLhyphen"/>ning, and appoſing the Rebels, who thereupon with great expedition, care, and carriage, raiſed, armed, and maintained from the firſt of <hi>De<g ref="char:EOLhyphen"/>cember</hi> laſt paſt, at his owne coſt and charges one foote company of 150. foote and a Troope of eleven horſe which have beene ſo lately muſtered, have by the Commiſſary, with which company of foot being joyned with other companies within the City, he hath carefully watch<g ref="char:EOLhyphen"/>ed and guarded the ſaid City, being a place of great important, and joyned with the other companies, in repairing the decayed wals; ram<g ref="char:EOLhyphen"/>piers, and gates thereof; and hath alſo at all needfull times, and upon all offered occaſions by himſelfe in perſon, and with his company of horſe and foote marched forth and joyned with our Regiments, and given battell to the Enemies with us in the greateſt ſervices that have beene done in the Countries of <hi>Tyrone, Donnegall,</hi> and <hi>London-derry,</hi> alwayes furniſhing his men, and carrying victuals and proviſions for them without putting the Countrey to any charge, having accompa<g ref="char:EOLhyphen"/>nied us at many good skirmiſhes, ſet battels, and hard encounters with the Rebels, and ſome time adventured abroad, and done good ſervice with his owne company; And we doe hereby ſincerely acknowledge that the ſaid Captaine <hi>Lawſon</hi> with other the City companies have under God beene no ſmall meanes for the preſer<g ref="char:EOLhyphen"/>vation,
+<pb n="15" facs="tcp:38049:8"/>not onely of the ſaid City, but of this part of <hi>Vlſter.</hi> And that we without the aſſiſtance of the ſaid City companies could not have ſo well ſubſiſted. And we doe further declare that Captaine <hi>Lawſon</hi> hath taken great care in training and exerciſing his company, that they are expert ready Souldiers; and if it pleaſe his Majeſty and his Honoura<g ref="char:EOLhyphen"/>ble Court of Parliament ſo to eſteeme of him and his company, he hath well demerited good pay and reward, as well for his ſervice done in theſe parts, as for the like by him done and performed at <hi>Liſnegarvy,</hi> and the parts thereabouts at the firſt Inſurrection of this Rebellion, as is in<g ref="char:EOLhyphen"/>timated and ſignified unto ſome of us under the hands of divers Ho<g ref="char:EOLhyphen"/>nourable perſons in this Kingdome, which we have ſeene and peruſed, and give good credit thereunto; and we do alſo certifie on the behalfe of the ſaid Captaine <hi>Lawſon</hi> that he hath iſſued and delivered without any payment or ſatisfaction the number of 4000. Deale-boards together with Timber, Iron, and Nailes, wherewith to erect and ſet up ſeverall houſes for the lodging and receiving of the Souldiers, other poore diſtreſſed people within the City reſorting thither for reliefe in the dead time of winter, without which many of them otherwiſe had periſhed and beene loſt, the moſt part of the houſes in the Suburbs being pulled downe in feare of the Enemies approach. And having a Ship laden at <hi>Derry</hi> upon the firſt beginning of this Rebellion, with a great quan<g ref="char:EOLhyphen"/>tity of Butter to be tranſported for <hi>France,</hi> did afterwards unlade the ſame Butter, and diſtributed the ſame by times, by our order, amongſt the Souldiers and others for their reliefe, without any payment. By which meanes he loſt 30. li. of Advance-money to the Maſter of the Ship, the loſſe of the benefit of his markets abroad, and preſervation of his credit at home and abroad, beſides his loſſe at the Iron workes a<g ref="char:EOLhyphen"/>bove <hi>Belfaſt,</hi> amounting to a great value, and his loſſe and dammage ſuſtained by ſeverall houſes, goods, and commodities burned and con<g ref="char:EOLhyphen"/>ſumed at <hi>Strabane</hi> of great worth, and great debts abroad in the Rebels hands, much on the behalfe of the ſaid Captaine <hi>Lawſon,</hi> we doe certifie to be true, beſides other good ſervices performed by his owne hands in killing and cutting of ſome of the Arch-rebels, and in teſtimony of the truth hereof, we have here under ſubſcribed this 16. day of <hi>September, Anno Dom.</hi> 1642. <hi>An. R. Car. Angl. &amp;c. decimo octavo.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Thorneton <hi>Major.</hi>
+                     </item>
+                     <item>Henry Vaughan.</item>
+                     <item>Robert Culbreth.</item>
+                     <item>Simon Pitts.</item>
+                     <item>Henry Finch.</item>
+                     <item>John Vaughan.</item>
+                     <item>Robert Stewart.</item>
+                     <item>Edward Maxwell.</item>
+                     <item>Thomas Fairefax.</item>
+                     <item>John Stewart.</item>
+                     <item>William Stewart.</item>
+                     <item>William Simpill.</item>
+                     <item>James Gulbreth.</item>
+                     <item>Thomas Dutton.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
